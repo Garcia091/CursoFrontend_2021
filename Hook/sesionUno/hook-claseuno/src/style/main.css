@@ -1,0 +1,25 @@
+html, body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+
+button{
+    font-size: 1.3rem;
+    padding: 10px;
+}
+
+.card{
+width: 440px;
+}
+
+
+input{
+    color: gray;
+    font-size: 1.1rem;
+    width: 30%;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
