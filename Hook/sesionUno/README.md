@@ -15,3 +15,9 @@
 
 ## Ejercicios de clase:
 1. Crear un ejercicio aplicando useState y useEffect
+
+## Consulta:
+1. Leer crear un ejercicio con los siguientes hook
+- useMemo
+- useCallBack
+2. Consultar que es prop-types y defaultProps 
