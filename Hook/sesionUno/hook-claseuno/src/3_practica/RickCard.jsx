@@ -7,7 +7,7 @@ const RickCard = ({data}) => {
     useEffect(() => {
         imgGif(data)
         .then(imgData => setStateImages(imgData))
-    }, [])
+    }, [data])
 
     const imgGif = async(categoria) => {
         const url = `https://api.giphy.com/v1/gifs/search?q=${encodeURI(categoria)}&limit=10&api_key=RV7MZTV2p1YH3zkDxMbrp4d8xbLKDjUu`
