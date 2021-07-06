@@ -1,5 +1,5 @@
 import React from 'react'
-import { ChakraProvider, Button } from "@chakra-ui/react"
+import { ChakraProvider } from "@chakra-ui/react"
 import {BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
 import AdopcionHome from '../containers/AdopcionHome'
