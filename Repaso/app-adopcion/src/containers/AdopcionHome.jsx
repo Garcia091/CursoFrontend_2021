@@ -11,8 +11,6 @@ import {
 
 const AdopcionHome = () => {
 
-
-
     return (
 
         <Flex direction="column" mt="2" alignItems="center">
