@@ -1,0 +1,35 @@
+{
+  "Burger": [
+    {
+      "id": "1",
+      "image": "https://res.cloudinary.com/db9wh5uvt/image/upload/v1625108849/Criolla_ahdrpy.png",
+      "nombre": "CRIOLLA",
+      "precio": 14000
+    },
+    {
+      "id": "2",
+      "image": "https://res.cloudinary.com/db9wh5uvt/image/upload/v1625108847/Saltenia_l7vwko.png",
+      "nombre": "SALTEÑA",
+      "precio": 13500
+    },
+    {
+      "id": "3",
+      "image": "https://res.cloudinary.com/db9wh5uvt/image/upload/v1625108848/Portenia_atwepp.png",
+      "nombre": "PORTEÑA",
+      "precio": 12500
+    },
+    {
+      "id": "4",
+      "image": "https://res.cloudinary.com/db9wh5uvt/image/upload/v1625108847/Chicken_xgqujo.png",
+      "nombre": "CHICKEN",
+      "precio": 15000
+    },
+    {
+      "id": "5",
+      "image": "https://res.cloudinary.com/db9wh5uvt/image/upload/v1625108845/patagonia_novm28.png",
+      "nombre": "PATAGONIA",
+      "precio": 18500
+    }
+  ],
+  "Carrito": []
+}
