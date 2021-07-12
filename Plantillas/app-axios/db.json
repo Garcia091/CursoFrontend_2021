@@ -1,0 +1,16 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Sopa",
+      "precioPlatillo": "5000",
+      "categoria": "cortes",
+      "id": 1
+    },
+    {
+      "nombrePlatillo": "Arroz",
+      "precioPlatillo": "5000",
+      "categoria": "cortes",
+      "id": 2
+    }
+  ]
+}
