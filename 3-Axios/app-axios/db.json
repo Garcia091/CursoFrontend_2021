@@ -11,12 +11,6 @@
       "nombrePlatillo": "Arroz",
       "categoria": "plato fuerte",
       "id": 2
-    },
-    {
-      "nombrePlatillo": "Pollo a la plancha",
-      "precioPlatillo": "20000",
-      "categoria": "plato fuerte",
-      "id": 3
     }
   ]
 }

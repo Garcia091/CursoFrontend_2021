@@ -8,8 +8,7 @@ const AddProducto = ({history,guardarRecargarProductos}) => {
     const [ data, setData ] = useState({
         nombrePlatillo:'',
         precioPlatillo:'',
-        categoria:'',
-        id:''
+        categoria:''
     });
 
     const [ error, guardarError ] = useState(false);

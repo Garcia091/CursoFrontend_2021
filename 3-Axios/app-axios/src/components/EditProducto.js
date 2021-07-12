@@ -9,8 +9,7 @@ const AppProducto = (props) => {
     const [data, setData] = useState({
         nombrePlatillo: '',
         precioPlatillo: '',
-        categoria: '',
-        id: ''
+        categoria: ''
     });
 
     // generar los refs
