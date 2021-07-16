@@ -53,7 +53,6 @@ const AppProducto = (props) => {
 
         // Enviar el Request
         const url = `http://localhost:3004/restaurant/${producto.id}`;
-
         try {
             const resultado = await axios.put(url, editarPlatillo);
 
